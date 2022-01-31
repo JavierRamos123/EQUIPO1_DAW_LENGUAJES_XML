@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurante>
+
+    <plato category="principal">
+        <nombre>Plato de los montes</nombre>
+        <precio>13.50€</precio>
+        <ingredientes>Migas, huevo, morcilla, chorizo, pimientos, huevo frito y patatas fritas.</ingredientes>
+    </plato>
+    
+    <plato category="principal">
+        <nombre>Paella de marisco</nombre>
+        <precio>12.00€</precio>
+        <ingredientes>Arroz, gambas, mejillones, calamar, pimientos verde y rojo.</ingredientes>
+    </plato>
+
+    <plato category="principal">
+        <nombre>Presa ibérica</nombre>
+        <precio>18.00€</precio>
+        <ingredientes>Presa ibérica con punto a elegir y patatas fritas.</ingredientes>
+    </plato>
+
+    <plato category="principal">
+        <nombre>Pulpo a la gallega</nombre>
+        <precio>14.00€</precio>
+        <ingredientes>Pulpo, pimentón dulce y patatas gallegas.</ingredientes>
+    </plato>
+
+    <plato category="entrante">
+        <nombre>Jamón ibérico</nombre>
+        <precio>15.00€</precio>
+        <ingredientes>Ración de jamón ibérico de bellota al corte.</ingredientes>
+    </plato>
+
+    <plato category="entrante">
+        <nombre>Croquetas de jamón</nombre>
+        <precio>8.00€</precio>
+        <ingredientes>Ración de croquetas caseras con sabor jamón ibérico.</ingredientes>
+    </plato>
+
+    <plato category="entrante">
+        <nombre>Lomo en manteca</nombre>
+        <precio>10.00€</precio>
+        <ingredientes>Ración de lomo en manteca de cerdo ibérico.</ingredientes>
+    </plato>
+
+    <plato category="postre">
+        <nombre>Arroz con leche</nombre>
+        <precio>4.50€</precio>
+        <ingredientes>Arroz con leche casero con canela espolvoreada por encima.</ingredientes>
+    </plato>
+
+    <plato category="postre">
+        <nombre>Tarta de queso</nombre>
+        <precio>4.50€</precio>
+        <ingredientes>Tarta de queso con mermela de sabor a elegir por encima.</ingredientes>
+    </plato>
+
+    <plato category="postre">
+        <nombre>Tiramisú</nombre>
+        <precio>5.50€</precio>
+        <ingredientes>Tiramisú casero.</ingredientes>
+    </plato>
+
+</restaurante> 

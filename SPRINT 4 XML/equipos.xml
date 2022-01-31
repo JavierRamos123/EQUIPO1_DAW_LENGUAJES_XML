@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+
+    <equipo>
+        <nombre>Hasbullah Lovers F.C.</nombre>
+        <ranking>1</ranking>
+        <jugadores>
+            <jugador>
+                <nombre>Javier Moret Galán</nombre>
+                <edad>24</edad>
+            </jugador>
+            <jugador>
+                <nombre>Alvaro Delgado Hernández</nombre>
+                <edad>20</edad>
+            </jugador>
+            <jugador>
+                <nombre>Alberto Fernández Baena</nombre>
+                <edad>22</edad>
+            </jugador>
+            <jugador>
+                <nombre>Eva Téllez Bernal</nombre>
+                <edad>25</edad>
+            </jugador>
+            <jugador>
+                <nombre>Javier Ramos del Río</nombre>
+                <edad>46</edad>
+            </jugador>
+            <jugador>
+                <nombre>Cristiano Ronaldo</nombre>
+                <edad>37</edad>
+            </jugador>
+            <jugador>
+                <nombre>Lionel Andrés Messi</nombre>
+                <edad>35</edad>
+            </jugador>
+            <jugador>
+                <nombre>Karim Benzema</nombre>
+                <edad>34</edad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    
+    <equipo>
+        <nombre>Real Madrid F.C.</nombre>
+        <ranking>3</ranking>
+        <jugadores>
+            <jugador>
+                <nombre>Thibaut Courtois</nombre>
+                <edad>29</edad>
+            </jugador>
+            <jugador>
+                <nombre>David Alaba</nombre>
+                <edad>30</edad>
+            </jugador>
+            <jugador>
+                <nombre>Daniel Carvajal</nombre>
+                <edad>30</edad>
+            </jugador>
+            <jugador>
+                <nombre>Nacho Fernández</nombre>
+                <edad>31</edad>
+            </jugador>
+            <jugador>
+                <nombre>Luka Modric</nombre>
+                <edad>36</edad>
+            </jugador>
+            <jugador>
+                <nombre>Toni Kroos</nombre>
+                <edad>31</edad>
+            </jugador>
+            <jugador>
+                <nombre>Vinicius Junior</nombre>
+                <edad>21</edad>
+            </jugador>
+            <jugador>
+                <nombre>Eden Hazard</nombre>
+                <edad>40</edad>
+            </jugador>
+        </jugadores>
+    </equipo>
+
+    <equipo>
+        <nombre>F.C. Barcelona</nombre>
+        <ranking>7</ranking>
+        <jugadores>
+            <jugador>
+                <nombre>Ter Stegen</nombre>
+                <edad>24</edad>
+            </jugador>
+            <jugador>
+                <nombre>Samuel Umtiti</nombre>
+                <edad>20</edad>
+            </jugador>
+            <jugador>
+                <nombre>Clement Lenglet</nombre>
+                <edad>22</edad>
+            </jugador>
+            <jugador>
+                <nombre>Gerard Piqué</nombre>
+                <edad>25</edad>
+            </jugador>
+            <jugador>
+                <nombre>Pedri Gonzalez</nombre>
+                <edad>46</edad>
+            </jugador>
+            <jugador>
+                <nombre>Memphis Depay</nombre>
+                <edad>37</edad>
+            </jugador>
+            <jugador>
+                <nombre>Ferrán Torres</nombre>
+                <edad>35</edad>
+            </jugador>
+            <jugador>
+                <nombre>Ansu Fati</nombre>
+                <edad>34</edad>
+            </jugador>
+        </jugadores>
+    </equipo>
+
+    <equipo>
+        <nombre>Atlético de Madrid</nombre>
+        <ranking>2</ranking>
+        <jugadores>
+            <jugador>
+                <nombre>Jan Oblak</nombre>
+                <edad>24</edad>
+            </jugador>
+            <jugador>
+                <nombre>Felipe Augusto</nombre>
+                <edad>20</edad>
+            </jugador>
+            <jugador>
+                <nombre>Jose María Giménez</nombre>
+                <edad>22</edad>
+            </jugador>
+            <jugador>
+                <nombre>Koke Resurrección</nombre>
+                <edad>25</edad>
+            </jugador>
+            <jugador>
+                <nombre>Joao Felix</nombre>
+                <edad>46</edad>
+            </jugador>
+            <jugador>
+                <nombre>Luis Suarez</nombre>
+                <edad>37</edad>
+            </jugador>
+            <jugador>
+                <nombre>Ángel Correa</nombre>
+                <edad>35</edad>
+            </jugador>
+            <jugador>
+                <nombre>Antoine Griezmann</nombre>
+                <edad>34</edad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
