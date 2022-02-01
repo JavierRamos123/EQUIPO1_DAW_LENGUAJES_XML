@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>Bar Paco Home</title>
+    <link>https://eit4wnhapbifx3dhzm2tjw-on.drv.tw/nuevaCarpeta/</link>
+    <description>Bar Paco, tu restaurante de calidad de confianza</description>
+    <item>
+        <title>Sobre Nosotros</title>
+        <link>https://eit4wnhapbifx3dhzm2tjw.on.drv.tw/nuevaCarpeta/sobrenosotros.html</link>
+        <description>Conoce nuestra historia</description>
+    </item>
+    <item>
+        <title>Contáctanos</title>
+        <link>https://eit4wnhapbifx3dhzm2tjw.on.drv.tw/nuevaCarpeta/contact.html</link>
+        <description>Si tiene alguna duda, contáctenos y se la solucionamos</description>
+    </item>
+    <item>
+        <title>Servicios</title>
+        <link>https://eit4wnhapbifx3dhzm2tjw.on.drv.tw/nuevaCarpeta/service.html</link>
+        <description>Descubre todos los servicios que ofrecemos</description>
+    </item>
+    <item>
+        <title>Merchandising</title>
+        <link>https://eit4wnhapbifx3dhzm2tjw.on.drv.tw/nuevaCarpeta/merchandising.html</link>
+        <description>Adquiera un recuerdo de su bonita experiencia</description>
+    </item>
+    <copyright>2022 Equipo 1 DAW. Todos los derechos reservados.</copyright> 
+    <language>es</language> 
+</channel>
+
+</rss> 
