@@ -4,61 +4,97 @@
     <plato categoria="carne">
         <nombre>Empanado con patatas</nombre>
         <precio>6.50€</precio>
-        <ingredientes>Este plato consiste en dos filetes de pollo empanados con una ración de patatas fritas caseras, a lo pobre o con verdura.</ingredientes>
+        <ingredientes>
+            <ingrediente>Filete de pollo</ingrediente>
+            <ingrediente>Patatas</ingrediente>
+        </ingredientes>
     </plato>
     
     <plato categoria="carne">
         <nombre>Alitas de pollo</nombre>
         <precio>5.50€</precio>
-        <ingredientes>Unas deliciosas alitas de pollo.</ingredientes>
+        <ingredientes>
+            <ingrediente>Alitas de pollo</ingrediente>
+            <ingrediente>Salsa a elegir</ingrediente>
+            <ingrediente>Patatas fritas</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="carne">
         <nombre>Hamburguesa Paco</nombre>
         <precio>8.50€</precio>
-        <ingredientes>Este plato consiste en una hamburguesa con carne de ternera, bacon, cebolla, lechuga y huevo.</ingredientes>
+        <ingredientes>
+            <ingrediente>Hamburguesa de ternera</ingrediente>
+            <ingrediente>Bacon</ingrediente>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Huevo</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="carne">
         <nombre>Flamenquín de jamón y queso</nombre>
         <precio>7.50€</precio>
-        <ingredientes>Este plato consistente en trozos de jamón serrano enrollados en cintas de lomo de cerdo, rebozado en pan rallado.</ingredientes>
+        <ingredientes>
+            <ingrediente>Jamón ibérico</ingrediente>
+            <ingrediente>Cinta de lomo de cerdo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="pescado">
         <nombre>Rosada a la plancha</nombre>
         <precio>9.50€</precio>
-        <ingredientes>Este plato consiste en una rosada a la plancha con patatas fritas o al horno.</ingredientes>
+        <ingredientes>
+            <ingrediente>Rosada a la plancha</ingrediente>
+            <ingrediente>Patatas a elegir</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="pescado">
         <nombre>Calamares fritos</nombre>
         <precio>8.00€</precio>
-        <ingredientes>Este plato consiste en una ración de calamares fritos.</ingredientes>
+        <ingredientes>
+            <ingrediente>Calamares fritos</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="pescado">
         <nombre>Boquerones al limón</nombre>
         <precio>8.00€</precio>
-        <ingredientes>Ración de lomo en manteca de cerdo ibérico.</ingredientes>
+        <ingredientes>
+            <ingrediente>Boquerones</ingrediente>
+            <ingrediente>Limón</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="postre">
         <nombre>Arroz con leche</nombre>
         <precio>3.25€</precio>
-        <ingredientes>Arroz con leche casero con canela espolvoreada por encima.</ingredientes>
+        <ingredientes>
+            <ingrediente>Arroz</ingrediente>
+            <ingrediente>Leche</ingrediente>
+            <ingrediente>Canela</ingrediente>
+            <ingrediente>Cáscaras de limón</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="postre">
         <nombre>Tarta de queso</nombre>
         <precio>4.50€</precio>
-        <ingredientes>Tarta de queso con mermela de sabor a elegir por encima.</ingredientes>
+        <ingredientes>
+            <ingrediente>Tarta de queso</ingrediente>
+            <ingrediente>Galleta</ingrediente>
+            <ingrediente>Mermelada</ingrediente>
+        </ingredientes>
     </plato>
 
     <plato categoria="postre">
         <nombre>Boloncho de helado</nombre>
         <precio>3.50€</precio>
-        <ingredientes>Boloncho de helado con sabor a elegir</ingredientes>
+        <ingredientes>
+            <ingrediente>Boloncho de helado</ingrediente>
+        </ingredientes>
     </plato>
 
 </carta> 
