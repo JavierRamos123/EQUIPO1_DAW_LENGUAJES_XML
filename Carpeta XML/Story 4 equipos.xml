@@ -5,37 +5,45 @@
         <nombre>Hasbullah Lovers F.C.</nombre>
         <ranking>1</ranking>
         <jugadores>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Javier Moret Galán</nombre>
                 <edad>24</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Alvaro Delgado Hernández</nombre>
                 <edad>20</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Alberto Fernández Baena</nombre>
                 <edad>22</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Eva Téllez Bernal</nombre>
                 <edad>25</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Javier Ramos del Río</nombre>
                 <edad>46</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Cristiano Ronaldo</nombre>
                 <edad>37</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Lionel Andrés Messi</nombre>
                 <edad>35</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Karim Benzema</nombre>
                 <edad>34</edad>
+                <sueldo>5000</sueldo>
             </jugador>
         </jugadores>
     </equipo>
@@ -44,37 +52,45 @@
         <nombre>Real Madrid F.C.</nombre>
         <ranking>3</ranking>
         <jugadores>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Thibaut Courtois</nombre>
                 <edad>29</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>David Alaba</nombre>
                 <edad>30</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Daniel Carvajal</nombre>
                 <edad>30</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Nacho Fernández</nombre>
                 <edad>31</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Luka Modric</nombre>
                 <edad>36</edad>
+                <sueldo>5000</sueldo>
             </jugador>
             <jugador>
-                <nombre>Toni Kroos</nombre>
+                <nombre categoria="titular">Toni Kroos</nombre>
                 <edad>31</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Vinicius Junior</nombre>
                 <edad>21</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Eden Hazard</nombre>
                 <edad>40</edad>
+                <sueldo>5000</sueldo>
             </jugador>
         </jugadores>
     </equipo>
@@ -83,37 +99,45 @@
         <nombre>F.C. Barcelona</nombre>
         <ranking>7</ranking>
         <jugadores>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Ter Stegen</nombre>
                 <edad>24</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Samuel Umtiti</nombre>
                 <edad>20</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Clement Lenglet</nombre>
                 <edad>22</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Gerard Piqué</nombre>
                 <edad>25</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Pedri Gonzalez</nombre>
                 <edad>46</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Memphis Depay</nombre>
                 <edad>37</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Ferrán Torres</nombre>
                 <edad>35</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Ansu Fati</nombre>
                 <edad>34</edad>
+                <sueldo>5000</sueldo>
             </jugador>
         </jugadores>
     </equipo>
@@ -122,37 +146,45 @@
         <nombre>Atlético de Madrid</nombre>
         <ranking>2</ranking>
         <jugadores>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Jan Oblak</nombre>
                 <edad>24</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Felipe Augusto</nombre>
                 <edad>20</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Jose María Giménez</nombre>
                 <edad>22</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Koke Resurrección</nombre>
                 <edad>25</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Joao Felix</nombre>
                 <edad>46</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="titular">
                 <nombre>Luis Suarez</nombre>
                 <edad>37</edad>
+                <sueldo>500</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Ángel Correa</nombre>
                 <edad>35</edad>
+                <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
+            <jugador categoria="suplente">
                 <nombre>Antoine Griezmann</nombre>
                 <edad>34</edad>
+                <sueldo>500</sueldo>
             </jugador>
         </jugadores>
     </equipo>

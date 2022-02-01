@@ -1,0 +1,18 @@
+
+1.- /equipos/equipo[2]
+
+2.- //jugador[@categoria="titular"]
+
+3.- //jugadores/jugador[sueldo>1500]
+
+4.- /equipos/equipo[ranking=1]
+
+5.- /equipos/equipo/nombre | /equipos/equipo/ranking
+
+6.- Jugadores mayores de 30 años y con sueldo mayor de 500
+
+	//jugador[edad>30 and sueldo>500] 
+
+7.- 
+
+8.-
