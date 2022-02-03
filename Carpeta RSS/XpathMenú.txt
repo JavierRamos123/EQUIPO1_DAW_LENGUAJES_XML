@@ -1,0 +1,10 @@
+*Sólo los postres: //plato [@category="postre"]
+*Todos los platos que tengan un precio menor a 10 euros: //plato[precio>10] (hay que quitar el simbolo del euro en el xml porque si no da error)
+*todos los platos que tenga como ingrediente pescado: //plato/ingredientes[ingrediente="pescado"]
+*El último plato de la lista: //plato [last ()]
+*Sólo el nombre de todos los platos: //plato/nombre
+*Sólo el nombre y el primer ingrediente de todos los platos: //plato/nombre | //ingrediente[1]
+*Haz 3 consultas más sobre lo que quieras. Especifica que es lo que estás consultando:
+	Solo nos muestra los entrantes://plato [@category="entrante"]
+	Mostrar el penultimo plato de la lista: //plato [last ()-1]
+	Mostrar los tres primeros platos de la lista: //plato [position () <4]
