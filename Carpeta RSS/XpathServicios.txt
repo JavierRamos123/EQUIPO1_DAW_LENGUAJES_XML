@@ -1,0 +1,6 @@
+1. //Plato/Nombre
+2. //Plato[last()]/Nombre
+3. //Plato[@categoria="pescado"]/Nombre | //Plato[@categoria="pescado"]/Precio
+4. Busco los ingredientes de la categoría carne => //Plato[@categoria="carne"]/Ingredientes/ingrediente
+   Busco el nombre de los postres y su último ingrediente => //Plato[@categoria="postre"]/Nombre | //Plato[@categoria="postre"]/Ingredientes/ingrediente[last()]
+   BUsco el nombre del último plato de la categoría carne => //Plato[@categoria="carne"][last()]/Nombre
