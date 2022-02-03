@@ -13,6 +13,10 @@
 
 	//jugador[edad>30 and sueldo>500] 
 
-7.- 
+7.- Jugadores con sueldo mayor de 500 y titulares
 
-8.-
+	//jugador[sueldo>500 and @categoria="titular"]
+
+8.- Mostrar los jugadores suplentes de los equipos con ranking menor que 3
+
+	//equipo[ranking<3] | jugador[@categoria="suplente"]
