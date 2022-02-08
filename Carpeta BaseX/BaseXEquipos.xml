@@ -77,8 +77,8 @@
                 <edad>36</edad>
                 <sueldo>5000</sueldo>
             </jugador>
-            <jugador>
-                <nombre categoria="titular">Toni Kroos</nombre>
+            <jugador categoria="titular">
+                <nombre>Toni Kroos</nombre>
                 <edad>31</edad>
                 <sueldo>5000</sueldo>
             </jugador>
