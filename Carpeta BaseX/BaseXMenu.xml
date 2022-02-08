@@ -1,8 +1,9 @@
+
 <restaurante>
 
     <plato category="principal">
         <nombre>Plato de los montes</nombre>
-        <precio>13.50€</precio>
+        <precio>13.50</precio>
         <ingredientes>
             <ingrediente>Migas</ingrediente>
             <ingrediente>Huevo</ingrediente>
@@ -16,7 +17,7 @@
     
     <plato category="principal">
         <nombre>Paella de marisco</nombre>
-        <precio>12.00€</precio>
+        <precio>12.00</precio>
         <ingredientes>
             <ingrediente>Arroz</ingrediente>
             <ingrediente>Gambas</ingrediente>
@@ -29,7 +30,7 @@
 
     <plato category="principal">
         <nombre>Presa ibérica</nombre>
-        <precio>18.00€</precio>
+        <precio>18.00</precio>
         <ingredientes>
             <ingrediente>Presa ibérica</ingrediente>
             <ingrediente>Patatas fritas</ingrediente>
@@ -38,7 +39,7 @@
 
     <plato category="principal">
         <nombre>Pulpo a la gallega</nombre>
-        <precio>14.00€</precio>
+        <precio>14.00</precio>
         <ingredientes>
             <ingrediente>Pulpo</ingrediente>
             <ingrediente>Pimentón dulce</ingrediente>
@@ -48,7 +49,7 @@
 
     <plato category="entrante">
         <nombre>Jamón ibérico</nombre>
-        <precio>15.00€</precio>
+        <precio>15.00</precio>
         <ingredientes>
             <ingrediente>Jamón ibérico</ingrediente>
         </ingredientes>
@@ -56,7 +57,7 @@
 
     <plato category="entrante">
         <nombre>Croquetas de jamón</nombre>
-        <precio>8.00€</precio>
+        <precio>8.00</precio>
         <ingredientes>
             <ingrediente>Crema croquetas de jamón</ingrediente>
             <ingrediente>Pan rallado</ingrediente>
@@ -65,7 +66,7 @@
 
     <plato category="entrante">
         <nombre>Lomo en manteca</nombre>
-        <precio>10.00€</precio>
+        <precio>10.00</precio>
         <ingredientes>
             <ingrediente>Lomo de cerdo ibérico</ingrediente>
             <ingrediente>Manteca de cerdo</ingrediente>
@@ -74,7 +75,7 @@
 
     <plato category="postre">
         <nombre>Arroz con leche</nombre>
-        <precio>4.50€</precio>
+        <precio>4.50</precio>
         <ingredientes>
             <ingrediente>Arroz</ingrediente>
             <ingrediente>Leche</ingrediente>
@@ -85,7 +86,7 @@
 
     <plato category="postre">
         <nombre>Tarta de queso</nombre>
-        <precio>4.50€</precio>
+        <precio>4.50</precio>
         <ingredientes>
             <ingrediente>Tarta de queso</ingrediente>
             <ingrediente>Galleta</ingrediente>
@@ -96,7 +97,7 @@
 
     <plato category="postre">
         <nombre>Tiramisú</nombre>
-        <precio>5.50€</precio>
+        <precio>5.50</precio>
         <ingredientes>
             <ingrediente>Bizcocho casero</ingrediente>
             <ingrediente>Café</ingrediente>

@@ -1,0 +1,37 @@
+1.-
+	for $menu in doc("BaseXMenu.xml")//plato where $menu/@category="postre"
+	return $menu
+2.-
+	for $menu in doc("BaseXMenu.xml")//plato where $menu/number(precio)<10
+	return $menu
+3.-
+	for $menu in doc("BaseXMenu.xml")//plato where $menu/ingredientes/ingrediente="Pescado"
+	return $menu
+4.-
+	for $menu in doc("BaseXMenu.xml")//plato[last()]
+	return $menu
+5.-
+	for $menu in doc("BaseXMenu.xml")//plato/nombre/text()
+	return $menu
+6.-
+	for $menu in doc("BaseXMenu.xml")//plato/nombre/text() |  doc("BaseXMenu.xml")//plato/ingredientes/ingrediente[1]/text()
+	return $menu
+
+7.-	Mostrar el nombre de los platos principales que valgan mas de 15€
+	
+		for $menu in doc("BaseXMenu.xml")//plato where $menu/@category="principal" and $menu/precio>15
+		return $menu/nombre/text()
+
+8.-	Mostrar los nombres de los platos mas caros de 10€ en orden de precio
+
+		for $menu in doc("BaseXMenu.xml")//plato where $menu/precio>10
+		order by $menu/precio
+		return $menu
+
+9.-	Mostrar solo el nombre de los ingredientes de los platos principales
+
+		for $menu in doc("BaseXMenu.xml")//plato where $menu/@category="principal"
+		return $menu//ingrediente/text()
+
+
+	

@@ -3,7 +3,7 @@
 
     <plato categoria="carne">
         <nombre>Empanado con patatas</nombre>
-        <precio>6.50€</precio>
+        <precio>6.50</precio>
         <ingredientes>
             <ingrediente>Filete de pollo</ingrediente>
             <ingrediente>Patatas</ingrediente>
@@ -12,7 +12,7 @@
     
     <plato categoria="carne">
         <nombre>Alitas de pollo</nombre>
-        <precio>5.50€</precio>
+        <precio>5.50</precio>
         <ingredientes>
             <ingrediente>Alitas de pollo</ingrediente>
             <ingrediente>Salsa a elegir</ingrediente>
@@ -22,7 +22,7 @@
 
     <plato categoria="carne">
         <nombre>Hamburguesa Paco</nombre>
-        <precio>8.50€</precio>
+        <precio>8.50</precio>
         <ingredientes>
             <ingrediente>Hamburguesa de ternera</ingrediente>
             <ingrediente>Bacon</ingrediente>
@@ -34,7 +34,7 @@
 
     <plato categoria="carne">
         <nombre>Flamenquín de jamón y queso</nombre>
-        <precio>7.50€</precio>
+        <precio>7.50</precio>
         <ingredientes>
             <ingrediente>Jamón ibérico</ingrediente>
             <ingrediente>Cinta de lomo de cerdo</ingrediente>
@@ -44,7 +44,7 @@
 
     <plato categoria="pescado">
         <nombre>Rosada a la plancha</nombre>
-        <precio>9.50€</precio>
+        <precio>9.50</precio>
         <ingredientes>
             <ingrediente>Rosada a la plancha</ingrediente>
             <ingrediente>Patatas a elegir</ingrediente>
@@ -53,7 +53,7 @@
 
     <plato categoria="pescado">
         <nombre>Calamares fritos</nombre>
-        <precio>8.00€</precio>
+        <precio>8.00</precio>
         <ingredientes>
             <ingrediente>Calamares fritos</ingrediente>
         </ingredientes>
@@ -61,7 +61,7 @@
 
     <plato categoria="pescado">
         <nombre>Boquerones al limón</nombre>
-        <precio>8.00€</precio>
+        <precio>8.00</precio>
         <ingredientes>
             <ingrediente>Boquerones</ingrediente>
             <ingrediente>Limón</ingrediente>
@@ -70,7 +70,7 @@
 
     <plato categoria="postre">
         <nombre>Arroz con leche</nombre>
-        <precio>3.25€</precio>
+        <precio>3.25</precio>
         <ingredientes>
             <ingrediente>Arroz</ingrediente>
             <ingrediente>Leche</ingrediente>
@@ -81,7 +81,7 @@
 
     <plato categoria="postre">
         <nombre>Tarta de queso</nombre>
-        <precio>4.50€</precio>
+        <precio>4.50</precio>
         <ingredientes>
             <ingrediente>Tarta de queso</ingrediente>
             <ingrediente>Galleta</ingrediente>
@@ -91,7 +91,7 @@
 
     <plato categoria="postre">
         <nombre>Boloncho de helado</nombre>
-        <precio>3.50€</precio>
+        <precio>3.50</precio>
         <ingredientes>
             <ingrediente>Boloncho de helado</ingrediente>
         </ingredientes>
