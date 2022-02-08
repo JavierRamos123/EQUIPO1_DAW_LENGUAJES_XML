@@ -1,0 +1,42 @@
+1. 	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo[2]/jugadores/jugador
+	return $equipos
+
+2.	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo/jugadores/jugador
+	where $equipos/@categoria="titular"
+	return $equipos
+
+3.	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo/jugadores/jugador
+	where $equipos/number(sueldo) > 1500
+	return $equipos
+
+4.	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo
+	where $equipos/ranking = 1
+	return $equipos
+
+5.	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo/nombre |
+	doc("BaseXEquipos.xml")//equipos/equipo/ranking
+	return $equipos
+
+6. 	
+
+	1. Muestra el nombre de los equipos, su ranking y sus jugadores.
+
+	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo/nombre/text() |
+	doc("BaseXEquipos.xml")//equipos/equipo/ranking/text() |
+	doc("BaseXEquipos.xml")//equipos/equipo/jugadores/jugador/nombre/text()
+	return $equipos
+
+
+	2. Muestra el nombre del equipo que esté en el ranking 3.
+
+	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo
+	where $equipos/ranking =3
+	return $equipos/nombre
+	
+
+	3. Muestra el nombre de los jugadores que tienen 30 años
+
+	for $equipos in doc("BaseXEquipos.xml")//equipos/equipo/jugadores/jugador
+	where $equipos/number(edad) = 30
+	return $equipos/nombre
+	
