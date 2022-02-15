@@ -1,0 +1,16 @@
+mostrar sólo el título de todos los servicios: for $servicios in doc ("Servicios bdd.xml")//carta/plato/nombre
+return $servicios
+
+mostrar el último servicio de la lista: for $servicios in doc ("Servicios bdd.xml")//plato[last()]
+return $servicios
+
+mostrar sólo el título y el precio de los servicios de la categoría que elijas: for $servicios in doc ("Servicios bdd.xml")//plato [@categoria="carne"]/nombre/text() | //plato[@categoria="carne"]/precio/text()
+return $servicios
+
+Haz 3 consultas más sobre lo que quieras:
+* El primer plato de la categoria pescado: for $servicios in doc ("Servicios bdd.xml")//plato [@categoria = "pescado"] [1]
+return $servicios
+* El ultimo plato de la categoria postre: for $servicios in doc ("Servicios bdd.xml")//plato [@categoria = "postre"][last()]
+return $servicios
+* El segundo plato de la categoria carne: for $servicios in doc ("Servicios bdd.xml")//plato [@categoria = "carne"] [2]
+return $servicios
